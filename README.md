@@ -3,11 +3,10 @@
 ### <p align=Center>🐋 Python, C++, Java, Frontend, Backend Developer</p>
 ### <p align=Center>🔭 QT, Tkinter, OOP, Modular, Django, Odoo, Selenium</p>
 
-<p align=Center>
-  > ### 💼 Contact Me
+> ### 💼 Contact Me
 >[![Email](https://img.shields.io/badge/Email-h1383ahmadi@gmail.com-red)](mailto:h1383ahmadi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-HojjatAhmadi-black)](https://github.com/HojjatAhmadi)
-</p>
+>[![GitHub](https://img.shields.io/badge/GitHub-HojjatAhmadi-black)](https://github.com/HojjatAhmadi)
+
 
 
 ### 🛠️ Languages & Technologies
