@@ -5,6 +5,7 @@
 Hello! I'm a computer science student 🎓 with a strong passion for programming and a constant desire to learn new skills in this field 🌐. I have experience working with various technologies and am always eager to expand my knowledge and abilities in programming and problem-solving 💻.
 
 ---
+### 🧠 Personal Ability
 
 - [x] Problem-solving abilities
 - [x] Team collaboration
