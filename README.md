@@ -3,10 +3,11 @@
 ### <p align=Center>🐋 Python, C++, Java, Frontend, Backend Developer</p>
 ### <p align=Center>🔭 QT, Tkinter, OOP, Modular, Django, Odoo, Selenium</p>
 
-> ### 💼 Contact Me
+<p align=Center>
+  > ### 💼 Contact Me
 >[![Email](https://img.shields.io/badge/Email-h1383ahmadi@gmail.com-red)](mailto:h1383ahmadi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HojjatAhmadi-blue)](https://www.linkedin.com/in/HojjatAhmadi/)
 [![GitHub](https://img.shields.io/badge/GitHub-HojjatAhmadi-black)](https://github.com/HojjatAhmadi)
+</p>
 
 
 ### 🛠️ Languages & Technologies
@@ -43,13 +44,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### 📊 Most Used Languages and 🚀 GitHub Status
 
-<div>
-  ### 📊 Most Used Languages
+| Most Used Languages | GitHub Status |
+| --- | --- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HojjatAhmadi&layout=compact&theme=radical)](https://github.com/HojjatAhmadi/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HojjatAhmadi&show_icons=true&theme=radical)](https://github.com/HojjatAhmadi/github-readme-stats) |
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HojjatAhmadi&layout=compact&theme=radical)](https://github.com/HojjatAhmadi/github-readme-stats)
-
-  ### 🚀 GitHub Status
-
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HojjatAhmadi&show_icons=true&theme=radical)](https://github.com/HojjatAhmadi/github-readme-stats)
-</div>
