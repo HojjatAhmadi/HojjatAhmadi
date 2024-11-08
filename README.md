@@ -1,5 +1,5 @@
 # <p align=Center>Hi 👋🏻, I'm Hojjat Ahmadi</p>
-***
+
 ### <p align=Center>🐋 Python, C++, Java, Frontend, Backend Developer</p>
 ### <p align=Center>🔭 QT, Tkinter, OOP, Modular, Django, Odoo, Selenium</p>
 
