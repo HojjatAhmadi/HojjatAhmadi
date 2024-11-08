@@ -1,7 +1,15 @@
 # <p align=Center>Hi 👋🏻, I'm Hojjat Ahmadi</p>
 
-### <p align=Center>🐋 Python, C++, Java, Frontend, Backend Developer</p>
-### <p align=Center>🔭 QT, Tkinter, OOP, Modular, Django, Odoo, Selenium</p>
+- [x] Problem-solving abilities
+- [x] Team collaboration
+- [x] Code debugging
+- [x] Time management
+- [x] Critical thinking
+- [x] Continuous learning
+- [x] Strong communication skills
+- [x] Adaptability
+- [x] Code readability and documentation
+- [x] Version control (Git)
 
 > ### 💼 Contact Me
 >[![Email](https://img.shields.io/badge/Email-h1383ahmadi@gmail.com-red)](mailto:h1383ahmadi@gmail.com)
@@ -42,6 +50,11 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
 
 ### 📊 Most Used Languages and 🚀 GitHub Status
 
